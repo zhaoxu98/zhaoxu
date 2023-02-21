@@ -53,7 +53,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
+<!-- - `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
 - `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
 - `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao
 - `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
@@ -99,4 +99,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
 ## Others
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren** -->
+
+- `SIGSPATIAL 2019` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao

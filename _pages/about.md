@@ -23,8 +23,6 @@ I experienced some health setbacks over the past two years, which led to me slow
 
 Recently, I am mainly working on data-driven mahjong game AI.
 
-Research Interest
-
 My research interests include Data-efficient Deep Learning and Multimodal Learning. 
 
 I am familiar with the common machine learning algorithms and deep learning models. I am passionate about discovering new ways to use AI to improve the world we live in.
@@ -46,8 +44,8 @@ I am familiar with the common machine learning algorithms and deep learning mode
 
 
 # 💻 Internships
-- *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][1], Beijing, China.
-- *2019.07 - 2019.10*, Research Intern, [Department of Electronic Engineering and Computer Science][2], Pennsylvania, USA.
+- *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1], Beijing, China.
+- *2019.07 - 2019.10*, Research Intern, [Department of Electronic Engineering and Computer Science][I2], Pennsylvania, USA.
   
-[1]: https://damo.alibaba.com/labs/computing-technology
-[2]: https://www.eecs.psu.edu/
+[I1]: https://damo.alibaba.com/labs/computing-technology
+[I2]: https://www.eecs.psu.edu/
