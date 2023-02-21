@@ -30,41 +30,24 @@ My research interests include Data-efficient Deep Learning and Multimodal Learni
 I am familiar with the common machine learning algorithms and deep learning models. I am passionate about discovering new ways to use AI to improve the world we live in.
 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
 # 📖 Educations
 - *2016.08 - 2022.06*, Bachelor.<br>
    Department of Electronic Engineering, Tsinghua University, Beijing, China
 - *2019.07 - 2019.10*, Undergraduate Visiting Research Assistant.<br>
    Department of Electronic Engineering and Computer Science, Pennsylvania State University, PA, USA
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+{% include_relative includes/pub.md %}
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- *2020* Excellent Party Branch Secretary
+- *2016* Scholarship for Outstanding Freshman (Top 1%)
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][1], Beijing, China.
+- *2019.07 - 2019.10*, Research Intern, [Department of Electronic Engineering and Computer Science][2], Pennsylvania, USA.
+  
+[1]: https://damo.alibaba.com/labs/computing-technology
+[2]: https://www.eecs.psu.edu/
