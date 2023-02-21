@@ -40,8 +40,7 @@ I am familiar with the common machine learning algorithms and deep learning mode
 - *2016.08 - 2022.06*, Bachelor.<br>
    Department of Electronic Engineering, Tsinghua University, Beijing, China
 - *2019.07 - 2019.10*, Undergraduate Visiting Research Assistant.<br>
-   Pennsylvania State University, PA, USA
-- 
+   Department of Electronic Engineering and Computer Science, Pennsylvania State University, PA, USA
 
 # 📝 Publications 
 

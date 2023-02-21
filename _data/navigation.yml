@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/zhaoxu/#about-me"
 
-  - title: "News"
-    url: "/zhaoxu/#-news"
+  - title: "Educations"
+    url: "/zhaoxu/#-educations"
 
   - title: "Publications"
     url: "/zhaoxu/#-publications"
@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/zhaoxu/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/zhaoxu/#-educations"
-
-  - title: "Invited Talks"
-    url: "/zhaoxu/#-invited-talks"
-
   - title: "Internships"
     url: "/zhaoxu/#-internships"
+
+# - title: "News"
+#   url: "/zhaoxu/#-news"
+
+# - title: "Invited Talks"
+#   url: "/zhaoxu/#-invited-talks"
