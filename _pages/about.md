@@ -27,6 +27,7 @@ My research interests include Data-efficient Deep Learning and Multimodal Learni
 
 I am familiar with the common machine learning algorithms and deep learning models. I am passionate about discovering new ways to use AI to improve the world we live in.
 
+<blockquote class="blockquote-center">blah blah blah</blockquote>
 
 # 📖 Educations
 - *2016.08 - 2022.06*, Bachelor.<br>

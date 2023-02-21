@@ -101,4 +101,9 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Others
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren** -->
 
-- `SIGSPATIAL 2019` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao
+- `TMC 2020` [DeepMM: Deep learning based map matching with data augmentation. IEEE Transactions on Mobile Computing (Extension of SIGSPATIAL 2019 Poster)][P2], Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin
+
+- `SIGSPATIAL 2019` [DeepMM: Deep learning based map matching with data augmentation][P1], Kai Zhao*, Jie Feng*, ** Zhao Xu* **, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li
+
+[P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
+[P1]: https://dl.acm.org/doi/abs/10.1145/3347146.3359090
