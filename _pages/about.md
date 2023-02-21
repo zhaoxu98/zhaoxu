@@ -27,24 +27,24 @@ My research interests include Data-efficient Deep Learning and Multimodal Learni
 
 I am familiar with the common machine learning algorithms and deep learning models. I am passionate about discovering new ways to use AI to improve the world we live in.
 
-<blockquote class="blockquote-center"><center>Genuis only means hard-working all one's life.</center></blockquote>
+<blockquote class="blockquote-center"><center>Genuis only means hard-working all one's life. (Mendeleyer)</center></blockquote>
 
 # 📖 Educations
+
 - *2016.08 - 2022.06*, Bachelor.<br>
    Department of Electronic Engineering, Tsinghua University, Beijing, China
 - *2019.07 - 2019.10*, Undergraduate Visiting Research Assistant.<br>
    Department of Electronic Engineering and Computer Science, Pennsylvania State University, PA, USA
 
-
 {% include_relative includes/pub.md %}
 
-
 # 🎖 Honors and Awards
+
 - *2020* Excellent Party Branch Secretary
 - *2016* Scholarship for Outstanding Freshman (Top 1%)
 
-
 # 💻 Internships
+
 - *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1], Beijing, China.
 - *2019.07 - 2019.10*, Research Intern, [Department of Electronic Engineering and Computer Science][I2], Pennsylvania, USA.
   
