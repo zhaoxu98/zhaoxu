@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhao Xu (许钊)"
+  name             : "Zhao Xu<br>(许钊)"
   avatar           : "images/1_xz_1024x1024.jpg"
   bio              : "Department of Electronic Engineering, Tsinghua University"
   location         : "Beijing, China"
