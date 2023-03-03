@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate of Tsinghua University, where I earned a bachelor's degree in Electronic Engineering. 
+I graduated from Tsinghua University with a bachelor's degree in Electronic Engineering.
 
-Despite facing some health setbacks over the past two years, I persevered with the support of my professors, including Prof. Yong Li and Prof. Minghua Chen, as well as Dr. Jie Feng, Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remain focused and motivated to move forward and make the most of each day.
+Despite facing health setbacks over the past two years, I persevered with the support of my professors, including Prof. Yong Li and Prof. Minghua Chen, as well as Dr. Jie Feng, Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remain focused and motivated to move forward and make the most of each day.
 
-My research interests lie in Data-efficient Deep Learning and Multimodal Learning. I am proficient in common machine learning algorithms and deep learning models, and I am passionate about leveraging AI to improve our world. Currently, I am mainly working on developing data-driven AI for mahjong games.
+My research interests include Data-efficient Deep Learning and Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world. Currently, I am developing data-driven AI for mahjong games.
 
 <blockquote class="blockquote-center"><center>Genuis only means hard-working all one's life. (Mendeleyer)</center></blockquote>
 
