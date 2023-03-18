@@ -21,7 +21,7 @@ I graduated from Tsinghua University with a bachelor's degree in Electronic Engi
 
 Despite facing health setbacks over the past two years, I persevered with the support of my professors, including Prof. Yong Li and Prof. Minghua Chen, as well as Dr. Jie Feng, Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remained focused and motivated to move forward and make the most of each day.
 
-My research interests include Spatio-Temporal Data Mining and Deep Learning. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
+My research interests include Spatio-Temporal Data Mining, Recommendation System and Deep Learning. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
 <blockquote class="blockquote-center"><center>Genuis only means hard-working all one's life. (Mendeleyer)</center></blockquote>
 
