@@ -25,6 +25,8 @@ My research interests include Spatio-Temporal Data Mining, Recommendation System
 
 <blockquote class="blockquote-center"><center>Genuis only means hard-working all one's life. (Mendeleyer)</center></blockquote>
 
+_In the past, I've let go of many golden opportunities and often regretted those decisions. However, looking back, I feel grateful to every person who trusted me. Now, when presented with new opportunities, I vow to cherish them wholeheartedly and honor all commitments, no matter their size._
+
 # 📖 Educations
 
 - *2016.08 - 2022.06*, Bachelor.<br>
