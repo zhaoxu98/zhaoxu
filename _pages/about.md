@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 6em;'> with a bachelor's degree in Electronic Engineering.
+I graduated from the department of [Electronic Engineering][A2] at [Tsinghua University][A1] <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 
 Despite facing health setbacks over the past two years, I persevered with the support of my professors, including Prof. Yong Li and Prof. Minghua Chen, as well as Dr. Jie Feng, Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remained focused and motivated to move forward and make the most of each day.
 
-My research interests include Spatio-Temporal Data Mining, Recommendation System and Deep Learning. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
+**My research interests** include Spatio-Temporal Data Mining, Graph Learning and Deep Learning. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
 <blockquote class="blockquote-center"><center>Genuis only means hard-working all one's life. (Mendeleyer)</center></blockquote>
 
@@ -55,9 +55,12 @@ _In the past, I've let go of many golden opportunities and often regretted those
 
 # 💬 To Prospective Advisor
 
+# 💬 致潜在的导师
 
 
 
+[A2]: https://www.ee.tsinghua.edu.cn/en/
+[A1]: https://www.tsinghua.edu.cn/en/index.htm
 [N3]: https://www.public.asu.edu/~kding9/
 [N2]: https://www.public.asu.edu/~huanliu/index.html
 [N1]: https://en.wikipedia.org/wiki/Spinal_disc_herniation
