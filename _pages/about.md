@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from Tsinghua University with a bachelor's degree in Electronic Engineering.
+I graduated from Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 6em;'> with a bachelor's degree in Electronic Engineering.
 
 Despite facing health setbacks over the past two years, I persevered with the support of my professors, including Prof. Yong Li and Prof. Minghua Chen, as well as Dr. Jie Feng, Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remained focused and motivated to move forward and make the most of each day.
 
@@ -45,7 +45,7 @@ _In the past, I've let go of many golden opportunities and often regretted those
 # 🎖 Honors and Awards
 
 - *2020* Excellent Party Branch Secretary
-- *2016* Scholarship for Outstanding Freshman (Top 1%)
+- *2016* Scholarship for Outstanding Freshman (Top 1%, 30 out of 3000)
 
 # 💻 Internships
 
