@@ -19,7 +19,7 @@ redirect_from:
 
 I graduated from the department of [Electronic Engineering][A2] at [Tsinghua University][A1] <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 
-Despite facing health setbacks over the past two years, I persevered with the support of my professors, including Prof. Yong Li and Prof. Minghua Chen, as well as Dr. Jie Feng, Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remained focused and motivated to move forward and make the most of each day.
+Despite facing health setbacks over the past two years, I persevered with the support of my professors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remained focused and motivated to move forward and make the most of each day.
 
 **My research interests** include Spatio-Temporal Data Mining, Graph Learning and Deep Learning. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
@@ -82,7 +82,9 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
 </details>
 
-
+[A5]: https://vonfeng.github.io/
+[A4]: https://www.mhchen.com/
+[A3]: http://fi.ee.tsinghua.edu.cn/~liyong/
 [A2]: https://www.ee.tsinghua.edu.cn/en/
 [A1]: https://www.tsinghua.edu.cn/en/index.htm
 [N3]: https://www.public.asu.edu/~kding9/
