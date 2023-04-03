@@ -28,9 +28,10 @@ My research interests include Spatio-Temporal Data Mining, Recommendation System
 _In the past, I've let go of many golden opportunities and often regretted those decisions. However, looking back, I feel grateful to every person who trusted me. Now, when presented with new opportunities, I vow to cherish them wholeheartedly and honor all commitments, no matter their size._
 
 # 🔥 News
+
 - *2023.02*: I joined [Prof. Huan Liu's][N2] group as a research assistant and started research on cross-city trajectory mining under the supervision of [Dr. Kaize Ding][N3] and Dr. Zhen Tan. Thank you for offering me the opportunity!
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
-- *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
+- *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
 - *2021.01*: I joined [Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 6em;'> as a research intern!
 
 # 📖 Educations
@@ -51,6 +52,11 @@ _In the past, I've let go of many golden opportunities and often regretted those
 
 - *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 6em;'>, Beijing, China.
 - *2019.07 - 2019.10*, Research Intern, [Department of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 6em;'>, Pennsylvania, USA.
+
+# 💬 To Prospective Advisor
+
+
+
 
 [N3]: https://www.public.asu.edu/~kding9/
 [N2]: https://www.public.asu.edu/~huanliu/index.html
