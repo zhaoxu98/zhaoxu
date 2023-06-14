@@ -29,7 +29,7 @@ _In the past, I've let go of many golden opportunities and often regretted those
 
 # 🔥 News
 
-- *2023.02*: I joined [Prof. Huan Liu's][N2] group as a research assistant and started research on cross-city trajectory mining under the supervision of [Dr. Kaize Ding][N3] and Dr. Zhen Tan. Thank you for offering me the opportunity!
+- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at The Hong Kong University of Science and Technology (Guangzhou Campus). My supervisor is Prof. Hao Liu, and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
 - *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
 - *2021.01*: I joined [Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'> as a research intern!
@@ -62,7 +62,7 @@ Since my recovery, I have been searching for internship/research opportunities. 
 
 2. During my illness, I spent a long time thinking about life planning while suffering from pain. I identified my genuine interests and expectations for the future, which was a crucial factor in my triumph over my illness. It also led me to commit to investing my limited time in fields that interest me, which is why I decided to pursue graduate studies. I am a lifelong learner and practitioner of the "Inch by inch, life's a cinch" idea. Although my illness previously consumed much of my time, I have been highly efficient with my time since recovering and am confident that I will catch up with and surpass my peers in the coming years. Currently, I dedicate about one hour each day to exercise, eight to ten hours to studying professional knowledge, two hours to learning about new subjects in fields different from computer science (like history, economics, and piano), and one hour to sharing life with families and friends.
 
-3. I need opportunities to prove myself, and I am extremely grateful to anyone willing to trust my abilities and offer me opportunities. If I contacted you first, it means that I have researched your previous work and am interested in collaborating with you. You can refer to my latest resume <a href="https://drive.google.com/file/d/19sGyJEnMpCdhibr1cWjDAB5-FCyhVS_-/view" title="Resume"><b>HERE</b></a> to decide whether to grant me an interview opportunity. If I have yet to contact you, it does not necessarily mean that I am not interested in your work. It could be that I have yet to have the chance to contact you or want to improve my skills before collaborating with you. However, I welcome you to contact me proactively, and I will provide feedback as soon as I thoroughly understand your work.
+3. I need opportunities to prove myself, and I am extremely grateful to anyone willing to trust my abilities and offer me opportunities. If I contacted you first, it means that I have researched your previous work and am interested in collaborating with you. You can refer to my latest resume <a href="https://drive.google.com/file/d/1QaE-nTlYBbmgCtGlmVdaG5taZ9GmlNjk/view" title="Resume"><b>HERE</b></a> to decide whether to grant me an interview opportunity. If I have yet to contact you, it does not necessarily mean that I am not interested in your work. It could be that I have yet to have the chance to contact you or want to improve my skills before collaborating with you. However, I welcome you to contact me proactively, and I will provide feedback as soon as I thoroughly understand your work.
 
 Finally, thank you for taking the time to learn about me. If you have any feedback or suggestions, don't hesitate to get in touch with me by email(zhaohsu98@gmail.com), phone(+86-13260261866), or WeChat(Bill2998).
 
@@ -77,7 +77,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 
 2. 生病期间，我在病痛中花了很长时间思考对人生的规划，确定了真正的兴趣，对未来的期待是我战胜疾病的一个重要原因。这也使我决定将有限的时间投入到感兴趣的领域，也是我决定读研的原因。我是一个终身学习者，也是“日拱一卒”想法的践行者。尽管由于之前生病耽误了很多时间，但我从康复以来一直保持对时间的高效利用和对自身的有效管理，我有信心在接下来几年内赶上并超过先行者。目前，我坚持每天分配约 1 小时用来锻炼身体，8 至 10 小时用来学习专业知识，2 小时用来学习其他领域的新事物，以及 1 个小时与家人和朋友分享生活。
 
-3. 目前我很需要证明自己的机会，我非常感激每一位愿意信任我的能力，提供机会给我的人。假如您是我主动联系的，这一定意味着我对您过往工作进行了调研，而且也对与您合作的机会感兴趣。您可以在<a href="https://drive.google.com/file/d/19sGyJEnMpCdhibr1cWjDAB5-FCyhVS_-/view" title="个人简历"><b>这里</b></a>参考我的最新简历，决定是否给予我面试机会。如果我之前未联系过您，这并不意味我对您的工作不感兴趣，可能是我还没来得及或者是希望努力提升自己能力后再与您合作。但我同样欢迎您积极联系我，我会在详细了解您的工作后及时给您反馈。
+3. 目前我很需要证明自己的机会，我非常感激每一位愿意信任我的能力，提供机会给我的人。假如您是我主动联系的，这一定意味着我对您过往工作进行了调研，而且也对与您合作的机会感兴趣。您可以在<a href="https://drive.google.com/file/d/1QaE-nTlYBbmgCtGlmVdaG5taZ9GmlNjk/view" title="个人简历"><b>这里</b></a>参考我的最新简历，决定是否给予我面试机会。如果我之前未联系过您，这并不意味我对您的工作不感兴趣，可能是我还没来得及或者是希望努力提升自己能力后再与您合作。但我同样欢迎您积极联系我，我会在详细了解您的工作后及时给您反馈。
 
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
 </details>
@@ -87,8 +87,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 [A3]: http://fi.ee.tsinghua.edu.cn/~liyong/
 [A2]: https://www.ee.tsinghua.edu.cn/en/
 [A1]: https://www.tsinghua.edu.cn/en/index.htm
-[N3]: https://www.public.asu.edu/~kding9/
-[N2]: https://www.public.asu.edu/~huanliu/index.html
+
 [N1]: https://en.wikipedia.org/wiki/Spinal_disc_herniation
 [I1]: https://damo.alibaba.com/labs/computing-technology
 [I2]: https://www.eecs.psu.edu/
