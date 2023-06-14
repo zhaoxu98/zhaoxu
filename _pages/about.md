@@ -29,7 +29,7 @@ _In the past, I've let go of many golden opportunities and often regretted those
 
 # 🔥 News
 
-- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at The Hong Kong University of Science and Technology (Guangzhou Campus). My supervisor is Prof. Hao Liu, and our group works perfectly harmoniously.
+- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at The Hong Kong University of Science and Technology (Guangzhou Campus) <img src='./images/UST_Logo.svg' style='width: 3em;'>. My supervisor is Prof. Hao Liu, and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
 - *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
 - *2021.01*: I joined [Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'> as a research intern!
