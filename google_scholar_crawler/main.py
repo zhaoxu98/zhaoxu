@@ -4,7 +4,6 @@ import json
 from datetime import datetime
 import os
 
-# author = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
@@ -20,5 +19,6 @@ shieldio_data = {
   "label": "citations",
   "message": f"{author['citedby']}",
 }
+
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
