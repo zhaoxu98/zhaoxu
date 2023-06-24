@@ -5,11 +5,11 @@ _(* indicates equal contribution)_
 
 - `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Poster)][P2]<br>
   Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin<br>
-  IEEE Transactions on Mobile Computing _(IF = 6.075)_
+  IEEE Transactions on Mobile Computing _(CCF A)_
 
 - `SIGSPATIAL 2019` ["DeepMM: Deep learning based map matching with data augmentation"][P1]<br>
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
-  Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CCF B, Acceptance Rate: 21%)_
+  Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(Acceptance Rate: 21%)_
 
 
 [P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
