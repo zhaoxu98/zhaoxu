@@ -19,17 +19,21 @@ redirect_from:
 
 I graduated from the department of [Electronic Engineering][A2] at [Tsinghua University][A1] <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 
-Despite facing health setbacks over the past two years, I persevered with the support of my professors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Although I faced challenges, I remained focused and motivated to move forward and make the most of each day.
+**My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
-**My research interests** include Spatio-Temporal Data Mining, Graph Learning and Deep Learning. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
+<!-- Despite facing severe health issues over the past two years, I persevered with the support of my families, friends and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Now, I am focused and motivated to move forward and make the most of each day. -->
+
+Despite facing severe health issues over the past two years, I persevered with the support of my family, friends, and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help.
+
+After recovery, I am now determined and motivated to move on and make the best of each day.
 
 <blockquote class="blockquote-center"><center>Genius only means hard-working all one's life. (Mendeleyer)</center></blockquote>
 
-_In the past, I've let go of many golden opportunities and often regretted those decisions. However, looking back, I feel grateful to every person who trusted me. Now, when presented with new opportunities, I vow to cherish them wholeheartedly and honor all commitments, no matter their size._
+<!-- _In the past, I've let go of many golden opportunities and often regretted those decisions. However, looking back, I feel grateful to every person who trusted me. Now, when presented with new opportunities, I vow to cherish them wholeheartedly and honor all commitments, no matter their size._ -->
 
 # 🔥 News
 
-- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is Prof. Hao Liu, and our group works perfectly harmoniously.
+- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
 - *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
 - *2021.01*: I joined [Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'> as a research intern!
@@ -38,7 +42,7 @@ _In the past, I've let go of many golden opportunities and often regretted those
 
 - *2016.08 - 2022.06*, Bachelor.<br>
    Department of Electronic Engineering, Tsinghua University, Beijing, China
-- *2019.07 - 2019.10*, Undergraduate Visiting Research Assistant.<br>
+- *2019.07 - 2019.10*, Undergraduate Visiting Researcher.<br>
    Department of Electronic Engineering and Computer Science, Pennsylvania State University, PA, USA
 
 {% include_relative includes/pub.md %}
@@ -46,12 +50,14 @@ _In the past, I've let go of many golden opportunities and often regretted those
 # 🎖 Honors and Awards
 
 - *2020* Excellent Party Branch Secretary
+- *2017* Outstanding Student in Work-Study Assistance
 - *2016* Scholarship for Outstanding Freshman (Top 1%, 30 out of 3000)
 
 # 💻 Internships
 
+- *2023.05 - Present*, Research Assistant, [AI Thrust, The Hong Kong University of Science and Technology (Guangzhou Campus)][I3] <img src='./images/UST_Logo.svg' style='width: 2em;'>, Guangzhou, China.
 - *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'>, Beijing, China.
-- *2019.07 - 2019.10*, Research Intern, [Department of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
+- *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
 
 # 💬 To Prospective Supervisor and Mentor
 
@@ -89,7 +95,11 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 [A2]: https://www.ee.tsinghua.edu.cn/en/
 [A1]: https://www.tsinghua.edu.cn/en/index.htm
 
+[N2]: https://raymondhliu.github.io/
 [N1]: https://en.wikipedia.org/wiki/Spinal_disc_herniation
-[I1]: https://damo.alibaba.com/labs/computing-technology
+
+[I3]: https://hkust-gz.edu.cn/
 [I2]: https://www.eecs.psu.edu/
+[I1]: https://damo.alibaba.com/labs/computing-technology
+
 [T1]: https://drive.google.com/file/d/19sGyJEnMpCdhibr1cWjDAB5-FCyhVS_-/view
