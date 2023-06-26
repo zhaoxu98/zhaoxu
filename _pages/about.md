@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I graduated from the department of [Electronic Engineering][A2] at [Tsinghua University][A1] <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
-
+<br>
 **My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
-
+<br>
 <!-- Despite facing severe health issues over the past two years, I persevered with the support of my families, friends and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Now, I am focused and motivated to move forward and make the most of each day. -->
 
 Despite facing severe health issues over the past two years, I persevered with the support of my family, friends, and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help.
-
+<br>
 After recovery, I am now determined and motivated to move on and make the best of each day.
 
 <blockquote class="blockquote-center"><center>Genius only means hard-working all one's life. (Mendeleyer)</center></blockquote>
