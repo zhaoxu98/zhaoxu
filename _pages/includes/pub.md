@@ -3,7 +3,7 @@
 
 _(* indicates equal contribution)_
 
-- `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Poster)][P2]<br>
+- `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Paper)][P2]<br>
   Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin<br>
   IEEE Transactions on Mobile Computing _(CCF A)_
 
