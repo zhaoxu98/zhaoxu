@@ -211,11 +211,11 @@
       {% endif %}
       <!-- CV -->
       {% if author.cv %}
-        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-user-circle" aria-hidden="true"></i></a></li>
+        <a href="{{ author.cv }}"><i class="fas fa-fw fa-user-circle" aria-hidden="true"></i></a>
       {% endif %}
       <!-- Blog -->
       {% if author.blog %}
-        <li><a href="{{ author.blog }}"><i class="fas fa-fw fa-desktop" aria-hidden="true"></i></a></li>
+        <a href="{{ author.blog }}"><i class="fas fa-fw fa-desktop" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
