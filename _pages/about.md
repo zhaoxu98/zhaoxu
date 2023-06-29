@@ -24,7 +24,7 @@ redirect_from:
 
 <!-- Despite facing severe health issues over the past two years, I persevered with the support of my families, friends and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Now, I am focused and motivated to move forward and make the most of each day. -->
 
-<blockquote class="blockquote-center"><center>Genius only means hard-working all one's life. (Mendeleyer)</center></blockquote>
+<blockquote class="blockquote-center"><center>Genius only means hard-working all one's life. (Mendeleev)</center></blockquote>
 
 <!-- _In the past, I've let go of many golden opportunities and often regretted those decisions. However, looking back, I feel grateful to every person who trusted me. Now, when presented with new opportunities, I vow to cherish them wholeheartedly and honor all commitments, no matter their size._ -->
 
