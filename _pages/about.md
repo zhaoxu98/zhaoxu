@@ -85,14 +85,14 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
 </details>
 
-<details markdown='1'><summary>医学诊断证明</summary>
+<!-- <details markdown='1'><summary>医学诊断证明</summary>
 
 目前我的健康状态不错，通过康复训练和游泳等控制住了腰椎疾病的恶化，不会对正常的生活和学习产生影响。以下是最新 (2023 年 4 月) 的检查结果：
 
 1. [全身核磁共振检查结果][R1]
 2. [北京三甲医院体检报告][R2]
 
-</details>
+</details> -->
 
 [A6]: https://hkust-gz.edu.cn/
 [A5]: https://vonfeng.github.io/
@@ -110,5 +110,5 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 
 [T1]: https://drive.google.com/file/d/1_jNoMwAI1K0NP47erhAYLztjEf3Dd2o8/view
 
-[R2]: https://1drv.ms/b/s!Ar4YuWJrHZzqo0dXVOLlJ1bd-qPv?e=btqTqa
-[R1]: https://1drv.ms/b/s!Ar4YuWJrHZzqo24inWVN8GfZGfUw?e=FEAOMR
+<!-- [R2]: https://1drv.ms/b/s!Ar4YuWJrHZzqo0dXVOLlJ1bd-qPv?e=btqTqa
+[R1]: https://1drv.ms/b/s!Ar4YuWJrHZzqo24inWVN8GfZGfUw?e=FEAOMR -->
