@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- I am a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus[^1])][A6], supervised by [Prof. Hao LIU][N2].
+- I am a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6]<img src='./images/UST_Logo.svg' style='width: 2em;'>, supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research.
 - Prior to my MPhil, I received my Bachelor's degree from the department of [Electronic Engineering][A2] at [Tsinghua University][A1] <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 - **My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
 <details markdown='1'><summary>Acknowledgment</summary>
 
-- I used to suffer from severe lumbar and heart disease over the past two years. Despite facing severe health issues, I persevered with the support of my family, friends, and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Junbo Zhang][A7], [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help.
+- I used to suffer from severe lumbar and heart disease from 2020 to 2022. Despite facing severe health issues, I persevered with the support of my family, friends, and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Junbo Zhang][A7], [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help.
 - After recovery, I am now determined and motivated to move on and make the best of each day.
 
 </details>
@@ -37,8 +37,8 @@ redirect_from:
 
 # 🔥 News
 
-- *2023.08*: I accepted the MPhil offer from HKUST, and It was my pleasure to join Prof. Hao LIU's [USAIL][N4] group.
-- *2023.08*: We went to Beijing to participate in the [Research Summit of Urban Science and Human Dynamics][N3]. Our poster was accepted by Tsinghua and I gave a quick presentation in Urban Cup.
+- *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join Prof. Hao LIU's [USAIL][N4] group.
+- *2023.08*: We went to Beijing to participate in [The First Research Summit of Urban Science][N3]. Our poster was accepted by Tsinghua, and I gave a quick presentation in Urban Cup.
 - *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
 - *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
@@ -46,12 +46,10 @@ redirect_from:
 
 # 📖 Educations
 
-- *2023.08 - Present*, Master of Philosophy.<br>
-   Artificial Intelligence , The Hong Kong University of Science and Technology
-- *2016.08 - 2022.06*, Bachelor.<br>
+- *2025 (Anticipated)*, Master of Philosophy.<br>
+   Artificial Intelligence, The Hong Kong University of Science and Technology
+- *2022*, Bachelor.<br>
    Department of Electronic Engineering, Tsinghua University
-- *2019.07 - 2019.10*, Undergraduate Visiting Researcher.<br>
-   Department of Electronic Engineering and Computer Science, Pennsylvania State University
 
 {% include_relative includes/pub.md %}
 
@@ -61,10 +59,11 @@ redirect_from:
 - *2017* Outstanding Student in Work-Study Assistance
 - *2016* Scholarship for Outstanding Freshman (Top 1%, 30 out of 3000)
 
-# 💻 Internships
+# 💻 Working Experience
 
 - *2023.05 - Present*, Research Assistant, [AI Thrust, The Hong Kong University of Science and Technology (Guangzhou Campus)][I3] <img src='./images/UST_Logo.svg' style='width: 2em;'>, Guangzhou, China.
 - *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'>, Beijing, China.
+- *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University, Beijing, China.
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
 
 # 💬 To Prospective Supervisor and Mentor
@@ -105,6 +104,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 
 </details> -->
 
+[A8]: https://hkust.edu.hk/index.php/about/rankings
 [A7]: https://zhangjunbo.org/
 [A6]: https://hkust-gz.edu.cn/
 [A5]: https://vonfeng.github.io/
@@ -118,13 +118,14 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 [N2]: https://raymondhliu.github.io/
 [N1]: https://en.wikipedia.org/wiki/Spinal_disc_herniation
 
+[I4]: http://fi.ee.tsinghua.edu.cn/
 [I3]: https://hkust-gz.edu.cn/
 [I2]: https://www.eecs.psu.edu/
 [I1]: https://damo.alibaba.com/labs/computing-technology
 
 [T1]: https://drive.google.com/file/d/1_jNoMwAI1K0NP47erhAYLztjEf3Dd2o8/view
 
-[^1]: HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university located in Nansha, Guangzhou, China, and focuses on interdisciplinary research.
+
 
 <!-- [R2]: https://1drv.ms/b/s!Ar4YuWJrHZzqo0dXVOLlJ1bd-qPv?e=btqTqa
 [R1]: https://1drv.ms/b/s!Ar4YuWJrHZzqo24inWVN8GfZGfUw?e=FEAOMR -->
