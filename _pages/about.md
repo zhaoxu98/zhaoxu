@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- I am a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6]<img src='./images/UST_Logo.svg' style='width: 2em;'>, supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research.
-- Prior to my MPhil, I received my Bachelor's degree from the department of [Electronic Engineering][A2] at [Tsinghua University][A1] <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
+- I am a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research.
+- Prior to my MPhil, I received my Bachelor's degree from the department of [Electronic Engineering][A2] at [Tsinghua University][A1], a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 - **My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
 <details markdown='1'><summary>Acknowledgment</summary>
@@ -63,7 +63,7 @@ redirect_from:
 
 - *2023.05 - Present*, Research Assistant, [AI Thrust, The Hong Kong University of Science and Technology (Guangzhou Campus)][I3] <img src='./images/UST_Logo.svg' style='width: 2em;'>, Guangzhou, China.
 - *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'>, Beijing, China.
-- *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University, Beijing, China.
+- *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, Beijing, China.
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
 
 # 💬 To Prospective Supervisor and Mentor
