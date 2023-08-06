@@ -47,9 +47,11 @@ redirect_from:
 # 📖 Educations
 
 - *2025 (Anticipated)*, Master of Philosophy.<br>
-   Artificial Intelligence, The Hong Kong University of Science and Technology
+   Department of Artificial Intelligence, The Hong Kong University of Science and Technology
 - *2022*, Bachelor.<br>
    Department of Electronic Engineering, Tsinghua University
+- *2019.07 - 2019.10*, Undergraduate Visiting Researcher.<br>
+   School of Electronic Engineering and Computer Science, Pennsylvania State University
 
 {% include_relative includes/pub.md %}
 
