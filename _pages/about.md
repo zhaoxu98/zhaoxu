@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- I am a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research.
-- Prior to my MPhil, I received my Bachelor's degree from the department of [Electronic Engineering][A2] at [Tsinghua University][A1], a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
+<!-- - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research. -->
+- I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
+- Prior to my MPhil, I received my Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 - **My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
 <details markdown='1'><summary>Acknowledgment</summary>
@@ -61,14 +62,14 @@ redirect_from:
 - *2017* Outstanding Student in Work-Study Assistance
 - *2016* Scholarship for Outstanding Freshman (Top 1%, 30 out of 3000)
 
-# 💻 Working Experience
+# 💻 Work Experience
 
 - *2023.05 - Present*, Research Assistant, [AI Thrust, The Hong Kong University of Science and Technology (Guangzhou Campus)][I3] <img src='./images/UST_Logo.svg' style='width: 2em;'>, Guangzhou, China.
 - *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'>, Beijing, China.
 - *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, Beijing, China.
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
 
-# 💬 To Prospective Supervisor and Mentor
+<!-- # 💬 To Prospective Supervisor and Mentor
 
 <details markdown='1'><summary>Details</summary>
 Since my recovery, I have been searching for internship/research opportunities. I plan to apply for graduate programs in the 24Spring&Fall and would like to gain experience in either academic research or industry internships beforehand. This would allow me to focus on my interests earlier and improve my research and coding abilities. Here are my expectations for internships and research opportunities. If you meet the description and are interested in interviewing me after reviewing my background, please feel free to contact me.
@@ -95,7 +96,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 3. 目前我很需要证明自己的机会，我非常感激每一位愿意信任我的能力，提供机会给我的人。假如您是我主动联系的，这一定意味着我对您过往工作进行了调研，而且也对与您合作的机会感兴趣。您可以在<a href="https://drive.google.com/file/d/1_jNoMwAI1K0NP47erhAYLztjEf3Dd2o8/view" title="个人简历"><b>这里</b></a>参考我的最新简历，决定是否给予我面试机会。如果我之前未联系过您，这并不意味我对您的工作不感兴趣，可能是我还没来得及或者是希望努力提升自己能力后再与您合作。但我同样欢迎您积极联系我，我会在详细了解您的工作后及时给您反馈。
 
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
-</details>
+</details> -->
 
 <!-- <details markdown='1'><summary>医学诊断证明</summary>
 
