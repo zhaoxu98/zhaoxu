@@ -42,8 +42,11 @@ redirect_from:
 - *2023.08*: We went to Beijing to participate in [The First Research Summit of Urban Science][N3]. Our poster was accepted by Tsinghua, and I gave a quick presentation in Urban Cup.
 - *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
-- *2021.07*: I passed the third round of interviews and received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
+
+<details markdown='1'><summary>Older News</summary>
+- *2021.07*: I received the algorithm intern offer from the Machine Learning Platform of KuaiShou Technology. <img src='./images/Kuaishou_logo.png' style='width: 6em;'>
 - *2021.01*: I joined [Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'> as a research intern!
+</details>
 
 # 📖 Educations
 
@@ -69,7 +72,7 @@ redirect_from:
 - *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, Beijing, China.
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
 
-<!-- # 💬 To Prospective Supervisor and Mentor
+# 💬 To Prospective Supervisor and Mentor
 
 <details markdown='1'><summary>Details</summary>
 Since my recovery, I have been searching for internship/research opportunities. I plan to apply for graduate programs in the 24Spring&Fall and would like to gain experience in either academic research or industry internships beforehand. This would allow me to focus on my interests earlier and improve my research and coding abilities. Here are my expectations for internships and research opportunities. If you meet the description and are interested in interviewing me after reviewing my background, please feel free to contact me.
@@ -96,7 +99,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 3. 目前我很需要证明自己的机会，我非常感激每一位愿意信任我的能力，提供机会给我的人。假如您是我主动联系的，这一定意味着我对您过往工作进行了调研，而且也对与您合作的机会感兴趣。您可以在<a href="https://drive.google.com/file/d/1_jNoMwAI1K0NP47erhAYLztjEf3Dd2o8/view" title="个人简历"><b>这里</b></a>参考我的最新简历，决定是否给予我面试机会。如果我之前未联系过您，这并不意味我对您的工作不感兴趣，可能是我还没来得及或者是希望努力提升自己能力后再与您合作。但我同样欢迎您积极联系我，我会在详细了解您的工作后及时给您反馈。
 
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
-</details> -->
+</details>
 
 <!-- <details markdown='1'><summary>医学诊断证明</summary>
 
