@@ -38,7 +38,7 @@ redirect_from:
 
 # 🔥 News
 
-- *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join Prof. Hao LIU's [USAIL][N4] group.
+- *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join [USAIL][N4] group.
 - *2023.08*: We went to Beijing to participate in [The First Research Summit of Urban Science][N3]. Our poster was accepted by Tsinghua, and I gave a quick presentation in Urban Cup.
 - *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
