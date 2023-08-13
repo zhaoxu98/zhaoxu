@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhao Xu (许钊)"
-description              : ""
+description              : "Department of Artificial Intelligence, The Hong Kong University of Science and Technology<br><br>Department of Electronic Engineering, Tsinghua University"
 repository               : "zhaoxu98/zhaoxu"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhao Xu (许钊)"
   avatar           : "images/1_xz_1024x1024.jpg"
-  bio              : "Department of Artificial Intelligence, The Hong Kong University of Science and Technology<br>Department of Electronic Engineering, Tsinghua University"
+  bio              : "USAIL Group"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
