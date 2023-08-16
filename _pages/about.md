@@ -70,7 +70,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 
-- *2020* Excellent Party Branch Secretary
+- *2020* Excellent Undergraduate Branch Secretary of Tsinghua University
 - *2017* Outstanding Student in Work-Study Assistance
 - *2016* Scholarship for Outstanding Freshman (Top 1%, 30 out of 3000)
 
@@ -85,7 +85,7 @@ redirect_from:
 
 <details markdown='1'><summary>Details</summary>
 
-English version coming in a week. (By Aug 21, 2023)
+The English version is coming in a week. (By Aug 21, 2023)
 
 1. 我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣（*例如模拟电路*）的事情，同时我对新知识和新领域的挑战非常感兴趣且具备足够的行动力（*例如，尽管我不喜欢模拟电路，但我对芯片设计很感兴趣，所以在本科期间我熟练 Verilog 语言后，自己选修了微电子的研究生课程，了解并实践了芯片设计的完整流程，完成了一个简单卷积神经网络加速芯片的版图设计*）。<font color="red"><b>目前，我的主要研究兴趣是时空数据挖掘，关注与城市计算相关的隐私和安全问题。同时，我也在积极尝试和探索一些研究方向，包括 NLP、LLM、AI4Science 等。我计划在 MPhil 毕业前确定未来 PhD 阶段的大方向，并将此作为选择导师的重要原则。</b></font>
 
@@ -122,7 +122,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 
 </details> -->
 
-# 💬 致潜在的导师和主管
+<!-- # 💬 致潜在的导师和主管
 
 <details markdown='1'><summary>展开/收起</summary>
 自康复以来，我一直在寻找实习/科研的机会。我计划申请 24Spring&Fall 入学的研究生项目，在此之前我渴望获得在学术界科研或者业界实习的机会，从而能让我提前专注在喜欢的方向上，也能锻炼自己的科研和代码能力。以下几点是我对实习和科研的期待，如果您符合下面的情况或者在了解我的背景后，愿意给我一次面试的机会，欢迎立刻联系我。
@@ -134,7 +134,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 3. 目前我很需要证明自己的机会，我非常感激每一位愿意信任我的能力，提供机会给我的人。假如您是我主动联系的，这一定意味着我对您过往工作进行了调研，而且也对与您合作的机会感兴趣。您可以在<a href="https://drive.google.com/file/d/11H3_8fcfYDXOwAdkR8NeLY8z6sV5akUN/view" title="个人简历"><b>这里</b></a>参考我的最新简历，决定是否给予我面试机会。如果我之前未联系过您，这并不意味我对您的工作不感兴趣，可能是我还没来得及或者是希望努力提升自己能力后再与您合作。但我同样欢迎您积极联系我，我会在详细了解您的工作后及时给您反馈。
 
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
-</details>
+</details> -->
 
 <!-- <details markdown='1'><summary>医学诊断证明</summary>
 
