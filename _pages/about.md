@@ -109,6 +109,8 @@ The English version is coming in a week. (By Aug 21, 2023)
 
 </details>
 
+last updated: August 16, 2023
+
 <!-- <details markdown='1'><summary>Details</summary>
 Since my recovery, I have been searching for internship/research opportunities. I plan to apply for graduate programs in the 24Spring&Fall and would like to gain experience in either academic research or industry internships beforehand. This would allow me to focus on my interests earlier and improve my research and coding abilities. Here are my expectations for internships and research opportunities. If you meet the description and are interested in interviewing me after reviewing my background, please feel free to contact me.
 

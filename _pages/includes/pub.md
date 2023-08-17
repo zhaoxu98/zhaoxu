@@ -9,7 +9,7 @@ _(* indicates equal contribution)_
 
 - `SIGSPATIAL 2019` ["DeepMM: Deep learning based map matching with data augmentation"][P1]<br>
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
-  Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(Acceptance Rate: 21%)_
+  Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
 
 [P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
