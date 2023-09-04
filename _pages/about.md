@@ -85,7 +85,7 @@ redirect_from:
 
 <details markdown='1'><summary>Details</summary>
 
-The English version is coming in a week. (By Aug 21, 2023)
+The English version is coming in a month. (By Sep 21, 2023)
 
 1. 我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣（*例如模拟电路*）的事情，同时我对新知识和新领域的挑战非常感兴趣且具备足够的行动力（*例如，尽管我不喜欢模拟电路，但我对芯片设计很感兴趣，所以在本科期间我熟练 Verilog 语言后，自己选修了微电子的研究生课程，了解并实践了芯片设计的完整流程，完成了一个简单卷积神经网络加速芯片的版图设计*）。<font color="red"><b>目前，我的主要研究兴趣是时空数据挖掘，关注与城市计算相关的隐私和安全问题。同时，我也在积极尝试和探索一些研究方向，包括 NLP、LLM、AI4Science 等。我计划在 MPhil 毕业前确定未来 PhD 阶段的大方向，并将此作为选择导师的重要原则。</b></font>
 
@@ -109,7 +109,7 @@ The English version is coming in a week. (By Aug 21, 2023)
 
 </details>
 
-last updated: August 16, 2023
+last updated: September 4, 2023
 
 <!-- <details markdown='1'><summary>Details</summary>
 Since my recovery, I have been searching for internship/research opportunities. I plan to apply for graduate programs in the 24Spring&Fall and would like to gain experience in either academic research or industry internships beforehand. This would allow me to focus on my interests earlier and improve my research and coding abilities. Here are my expectations for internships and research opportunities. If you meet the description and are interested in interviewing me after reviewing my background, please feel free to contact me.
