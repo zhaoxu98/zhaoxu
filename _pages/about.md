@@ -18,16 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research. -->
-- I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
+- I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. 
+<!-- [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. -->
 - Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
 - **My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
 
-<details markdown='1'><summary>Acknowledgment</summary>
+**Acknowledgment**
+<!-- <details markdown='1'><summary>Acknowledgment</summary> -->
 
 - I used to suffer from severe lumbar and heart disease from 2020 to 2022. Despite facing severe health issues, I persevered with the support of my family, friends, and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Junbo Zhang][A7], [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help.
 - After recovery, I am now determined and motivated to move on and make the best of each day.
 
-</details>
+<!-- </details> -->
 
 
 <!-- Despite facing severe health issues over the past two years, I persevered with the support of my families, friends and supervisors, including [Prof. Yong Li][A3] and [Prof. Minghua Chen][A4], as well as [Dr. Jie Feng][A5], Dr. Yuanwei Fang, and Kai Zhao. I am deeply grateful for their help and look forward to collaborating with them in the future. Now, I am focused and motivated to move forward and make the most of each day. -->
@@ -85,7 +87,7 @@ redirect_from:
 
 <details markdown='1'><summary>Details</summary>
 
-The English version is coming in a month. (By Oct 21, 2023)
+<!-- The English version is coming in a month. (By Oct 21, 2023) -->
 
 1. 我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣（*例如模拟电路*）的事情，同时我对新知识和新领域的挑战非常感兴趣且具备足够的行动力（*例如，尽管我不喜欢模拟电路，但我对芯片设计很感兴趣，所以在本科期间我熟练 Verilog 语言后，自己选修了微电子的研究生课程，了解并实践了芯片设计的完整流程，完成了一个简单卷积神经网络加速芯片的版图设计*）。<font color="red"><b>目前，我的主要研究兴趣是时空数据挖掘，关注与城市计算相关的隐私和安全问题。同时，我也在积极尝试和探索一些研究方向，包括 NLP、LLM、AI4Science 等。我计划在 MPhil 毕业前确定未来 PhD 阶段的大方向，并将此作为选择导师的重要原则。</b></font>
 
@@ -99,7 +101,7 @@ The English version is coming in a month. (By Oct 21, 2023)
 
 **For Prospective Advisor**
 
-自康复以来，我一直在寻找实习/科研的机会。我计划申请 25Fall 入学的 Ph.D. 项目，在此之前我渴望获得在学术界或者工业界科研实习的机会。以下几点是我对实习和未来的导师的期待，如果您符合下面的情况或者在了解我的背景后，愿意给我一次面试的机会，欢迎立刻联系我。
+我计划申请 25Fall 入学的 Ph.D. 项目，在此之前我渴望获得在学术界或者工业界科研实习的机会。以下几点是我对实习和未来的导师的期待，如果您符合下面的情况或者在了解我的背景后，愿意给我一次面试的机会，欢迎立刻联系我。
 
 1. 兴趣：如上所述，兴趣是必要条件。
 2. 品质：我以诚信、勤奋、责任心等准则要求自己，所以我也希望能与具有类似优秀品质的人合作。
@@ -109,7 +111,7 @@ The English version is coming in a month. (By Oct 21, 2023)
 
 </details>
 
-last updated: September 4, 2023
+last updated: December 7, 2023
 
 <!-- <details markdown='1'><summary>Details</summary>
 Since my recovery, I have been searching for internship/research opportunities. I plan to apply for graduate programs in the 24Spring&Fall and would like to gain experience in either academic research or industry internships beforehand. This would allow me to focus on my interests earlier and improve my research and coding abilities. Here are my expectations for internships and research opportunities. If you meet the description and are interested in interviewing me after reviewing my background, please feel free to contact me.
@@ -169,7 +171,7 @@ Finally, thank you for taking the time to learn about me. If you have any feedba
 [I2]: https://www.eecs.psu.edu/
 [I1]: https://damo.alibaba.com/labs/computing-technology
 
-[T1]: https://drive.google.com/file/d/11H3_8fcfYDXOwAdkR8NeLY8z6sV5akUN/view
+[T1]: https://drive.google.com/file/d/18gVt8x9UFkdA-WMFEnQFDhSVuPcn2efX/view?usp=sharing
 
 
 
