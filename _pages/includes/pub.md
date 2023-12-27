@@ -1,7 +1,11 @@
 
 # 📝 Publications
 
-_(* indicates equal contribution)_
+<!-- _(* indicates equal contribution)_ -->
+
+- `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
+  Siqi Lai, **Zhao Xu**, Weijia Zhang, Hao Liu, Hui Xiong<br>
+  arXiv:2312.16044 [cs.AI]
 
 - `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Paper)][P2]<br>
   Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin<br>
@@ -11,7 +15,7 @@ _(* indicates equal contribution)_
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
-
+[P3]: https://arxiv.org/abs/2312.16044
 [P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
 [P1]: https://dl.acm.org/doi/abs/10.1145/3347146.3359090
 
