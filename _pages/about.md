@@ -61,10 +61,11 @@ redirect_from:
 
 - *2025 (Anticipated)*, **The Hong Kong University of Science and Technology**<br>
    Master of Philosophy, Department of Artificial Intelligence<br>
-   Advisor: [Prof. Hao Liu][E1], [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4]
+   Supervisor: [Prof. Hao Liu][E1]
+   Co-supervisor: [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4]
 - *2022*, **Tsinghua University**<br>
    Bachelor, Department of Electronic Engineering<br>
-   Advisor: [Prof. Yong Li][E2]
+   Supervisor: [Prof. Yong Li][E2]
 - *2019.07 - 2019.10*, **Pennsylvania State University**<br>
    Undergraduate Visiting Researcher, School of Electronic Engineering and Computer Science
 
