@@ -21,7 +21,7 @@ redirect_from:
 - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. 
 [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
 - Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
-- **My research interests** focus on Spatio-Temporal Data Mining. I am proficient in common machine learning algorithms and deep learning models and passionate about leveraging AI to improve our world.
+- **My research interests** lie in the areas of **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, I am currently working on LLMs for graph reasoning.
 
 **Acknowledgment**
 <!-- <details markdown='1'><summary>Acknowledgment</summary> -->
