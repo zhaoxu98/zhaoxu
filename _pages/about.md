@@ -84,7 +84,7 @@ redirect_from:
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
 
 
-last updated: January 1, 2024
+last updated: January 27, 2024
 
 
 [A8]: https://hkust.edu.hk/index.php/about/rankings
