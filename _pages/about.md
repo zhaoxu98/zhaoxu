@@ -18,11 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8]. HKUST(GZ) is a new campus of The Hong Kong University of Science and Technology rather than an independent university and focuses on interdisciplinary research. -->
-- I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6], supervised by [Prof. Hao LIU][N2]. 
+- I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology][A6], supervised by [Prof. Hao LIU][N2]. 
 [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
-- Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], a university that ranked #14 globally and #1 in Electrical and Electronic Engineering.
-- **My research interests** lie in the areas of **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, I am currently working on LLMs for graph reasoning.
-
+- Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], [a university that ranked #12 globally and #1 in Electrical and Electronic Engineering][A9].
+- <span style="color: #8C6804;">My research interests</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of trustworthy Large Language Models (LLMs) and their applications in real-world scenarios (e.g., smart cities, graph reasoning).
+- I warmly welcome everyone to discuss academic matters with me. Feel free to contact me via WeChat at <span style="color: #8C6804;">Bill2998</span> or email at <span style="color: #8C6804;">zhaohsu98@gmail.com</span>. Looking forward to your valuable insights and suggestions!
+<!-- <span style="color: #8C6804;">这段文本将显示为天蓝色。</span>
+ -->
 **Acknowledgment**
 <!-- <details markdown='1'><summary>Acknowledgment</summary> -->
 
@@ -40,6 +42,8 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.01*: We have conducted a comprehensive review of Urban Foundation Models, offering insightful perspectives and findings. Access our detailed paper and repository [**HERE**][N6].
+- *2023.12*: Our latest work applies Language Model Learning (LLM) to Traffic Signal Control (TSC) tasks. Discover our paper, code, and demo [**HERE**][N5]. We are currently preparing further studies for submission to KDD 2024.
 - *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join [USAIL][N4] group.
 - *2023.08*: We went to Beijing to participate in [The First Research Summit of Urban Science][N3]. Our poster was accepted by Tsinghua, and I gave a quick presentation in Urban Cup.
 - *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
@@ -87,6 +91,7 @@ redirect_from:
 last updated: January 27, 2024
 
 
+[A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
 [A8]: https://hkust.edu.hk/index.php/about/rankings
 [A7]: https://zhangjunbo.org/
 [A6]: https://hkust-gz.edu.cn/
@@ -96,6 +101,8 @@ last updated: January 27, 2024
 [A2]: https://www.ee.tsinghua.edu.cn/en/
 [A1]: https://www.tsinghua.edu.cn/en/index.htm
 
+[N6]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
+[N5]: https://github.com/usail-hkust/LLMTSCS
 [N4]: https://github.com/usail-hkust
 [N3]: https://fi.ee.tsinghua.edu.cn/RSUSHD2023/
 [N2]: https://raymondhliu.github.io/
