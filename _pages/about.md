@@ -44,7 +44,7 @@ redirect_from:
 # 🔥 News
 
 - *2024.01*: We have conducted a comprehensive review of Urban Foundation Models, offering insightful perspectives and findings. Access our detailed paper and repository [**HERE**][N6].
-- *2023.12*: Our latest work applies Language Model Learning (LLM) to Traffic Signal Control (TSC) tasks. Discover our paper, code, and demo [**HERE**][N5]. We are currently preparing further studies for submission to KDD 2024.
+- *2023.12*: Our latest work applies Large Language Models (LLMs) to Traffic Signal Control (TSC) tasks. Discover our paper, code, and demo [**HERE**][N5]. We are currently preparing further studies for submission to KDD 2024.
 - *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join [USAIL][N4] group.
 - *2023.08*: We went to Beijing to participate in [The First Research Summit of Urban Science][N3]. Our poster was accepted by Tsinghua, and I gave a quick presentation in Urban Cup.
 - *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
