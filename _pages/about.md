@@ -21,7 +21,7 @@ redirect_from:
 - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology][A6], supervised by [Prof. Hao LIU][N2]. 
 [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
 - Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], [a university that ranked #12 globally and #1 in Electrical and Electronic Engineering][A9].
-- <span style="color: #8C6804;">My research interests</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of trustworthy Large Language Models (LLMs) and their applications in real-world scenarios (e.g., smart cities, graph reasoning).
+- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of trustworthy Large Language Models (LLMs) and their applications in real-world scenarios (e.g., smart cities, graph reasoning).
 - I warmly welcome everyone to discuss academic matters with me. Feel free to contact me via WeChat at <span style="color: #8C6804;">Bill2998</span> or email at <span style="color: #8C6804;">zhaohsu98@gmail.com</span>. Looking forward to your valuable insights and suggestions!
 <!-- <span style="color: #8C6804;">这段文本将显示为天蓝色。</span>
  -->
@@ -46,7 +46,7 @@ redirect_from:
 - *2023.12*: Our latest work applies Language Model Learning (LLM) to Traffic Signal Control (TSC) tasks. Discover our paper, code, and demo [**HERE**][N5]. We are currently preparing further studies for submission to KDD 2024.
 - *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join [USAIL][N4] group.
 - *2023.08*: We went to Beijing to participate in [The First Research Summit of Urban Science][N3]. Our poster was accepted by Tsinghua, and I gave a quick presentation in Urban Cup.
-- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology (Guangzhou Campus)][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
+- *2023.05*: 🎉 I joined the USAIL Lab of AI thrust as a research assistant at [The Hong Kong University of Science and Technology][A6] <img src='./images/UST_Logo.svg' style='width: 2em;'>. My supervisor is [Prof. Hao Liu][N2], and our group works perfectly harmoniously.
 - *2022.12*: 🎉🎉 I recovered from severe [*Spinal Disc Herniation*][N1] thanks to rehabilitation training and swimming!
 
 <details markdown='1'><summary>Older News</summary>
@@ -82,13 +82,13 @@ redirect_from:
 
 # 💻 Work Experience
 
-- *2023.05 - Present*, Research Assistant, [AI Thrust, The Hong Kong University of Science and Technology (Guangzhou Campus)][I3] <img src='./images/UST_Logo.svg' style='width: 2em;'>, Guangzhou, China.
-- *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'>, Beijing, China.
-- *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>, Beijing, China.
-- *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>, Pennsylvania, USA.
+- *2023.05 - Present*, Research Assistant, [AI Thrust, The Hong Kong University of Science and Technology][I3] <img src='./images/UST_Logo.svg' style='width: 2em;'>.
+- *2021.01 - 2021.05*, Research Intern, [Computing Technology Lab, Alibaba DAMO Academy][I1] <img src='./images/Damo.svg' style='width: 4em;'>.
+- *2018.05 - 2020.10*, Research Assistant, [Future Intelligence laB (FIB)][I4], Tsinghua University <img src='./images/Tsinghua_University_Logo.svg' style='width: 3em;'>.
+- *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>.
 
 
-last updated: January 27, 2024
+last update: January 30, 2024
 
 
 [A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
