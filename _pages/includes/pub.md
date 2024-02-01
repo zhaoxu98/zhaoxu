@@ -3,9 +3,14 @@
 
 <!-- _(* indicates equal contribution)_ -->
 
-- `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
+- `Arxiv 2024` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P4] [Github][P4-1]<br>
+  Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
+  submitted to arXiv
+
+- `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3] [Github][P3-1]<br>
   Siqi Lai, **Zhao Xu**, Weijia Zhang, Hao Liu, Hui Xiong<br>
   arXiv:2312.16044 [cs.AI]
+  <span style="color: #8C6804;">Further study in preparation for KDD 2024.</span>
 
 - `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Paper)][P2]<br>
   Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin<br>
@@ -15,6 +20,9 @@
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
+[P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
+[P3-1]: https://github.com/usail-hkust/LLMTSCS
+[P4]: https://drive.google.com/file/d/1NrODovTVoAT1u_u-yVSzrigmGUvOdYod/view?usp=sharing
 [P3]: https://arxiv.org/abs/2312.16044
 [P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
 [P1]: https://dl.acm.org/doi/abs/10.1145/3347146.3359090
