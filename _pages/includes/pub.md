@@ -4,7 +4,7 @@
 <!-- _(* indicates equal contribution)_ -->
 
 - `Arxiv 2024` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P4]<br>
-  <span style="color: #FFE08A;">[Github][P4-1]</span><br>
+  <span style="color: #FFE08A;">[[Github]][P4-1]</span><br>
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
   submitted to arXiv
 
