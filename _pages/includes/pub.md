@@ -3,11 +3,13 @@
 
 <!-- _(* indicates equal contribution)_ -->
 
-- `Arxiv 2024` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P4] [Github][P4-1]<br>
+- `Arxiv 2024` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P4]<br>
+  <span style="color: #FFE08A;">[Github][P4-1]</span><br>
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
   submitted to arXiv
 
-- `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3] [Github][P3-1]<br>
+- `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
+  <span style="color: #FFE08A;">[[Github]][P3-1]</span>
   Siqi Lai, **Zhao Xu**, Weijia Zhang, Hao Liu, Hui Xiong<br>
   arXiv:2312.16044 [cs.AI]
   <span style="color: #8C6804;">Further study in preparation for KDD 2024.</span>
