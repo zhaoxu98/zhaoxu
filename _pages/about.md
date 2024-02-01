@@ -21,7 +21,7 @@ redirect_from:
 - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology][A6], supervised by [Prof. Hao LIU][N2]. 
 [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
 - Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], [a university that ranked #12 globally and #1 in Electrical and Electronic Engineering][A9].
-- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of trustworthy Large Language Models (LLMs) and their applications in real-world scenarios (e.g., smart cities, graph reasoning).
+- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of <span style="color: #8C6804;">reliable, trustworthy Large Language Models (LLMs) and their applications in real-world scenarios</span> (e.g., smart cities, graph reasoning).
 - I warmly welcome everyone to discuss academic matters with me. Feel free to contact me via WeChat at <span style="color: #8C6804;">Bill2998</span> or email at <span style="color: #8C6804;">zhaohsu98@gmail.com</span>. Looking forward to your valuable insights and suggestions!
 <!-- <span style="color: #8C6804;">这段文本将显示为天蓝色。</span>
  -->
