@@ -9,7 +9,7 @@
   submitted to arXiv
 
 - `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
-  <span style="color: #FFE08A;">[[Github]][P3-1]</span>
+  <span style="color: #FFE08A;">[[Github]][P3-1]</span><br>
   Siqi Lai, **Zhao Xu**, Weijia Zhang, Hao Liu, Hui Xiong<br>
   arXiv:2312.16044 [cs.AI]
   <span style="color: #8C6804;">Further study in preparation for KDD 2024.</span>
