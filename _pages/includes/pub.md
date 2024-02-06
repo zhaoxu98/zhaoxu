@@ -3,7 +3,7 @@
 
 <!-- _(* indicates equal contribution)_ -->
 
-- `Arxiv 2024` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P4]<br>
+- `Arxiv 2024` ["Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models"][P4]<br>
   <span style="color: #FFE08A;">[[Github]][P4-1]</span><br>
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
   arXiv:2402.01749 [cs.CY]
