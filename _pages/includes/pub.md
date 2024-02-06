@@ -6,7 +6,7 @@
 - `Arxiv 2024` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P4]<br>
   <span style="color: #FFE08A;">[[Github]][P4-1]</span><br>
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
-  submitted to arXiv
+  arXiv:2402.01749 [cs.CY]
 
 - `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
   <span style="color: #FFE08A;">[[Github]][P3-1]</span><br>
@@ -24,7 +24,7 @@
 
 [P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
 [P3-1]: https://github.com/usail-hkust/LLMTSCS
-[P4]: https://drive.google.com/file/d/1NrODovTVoAT1u_u-yVSzrigmGUvOdYod/view?usp=sharing
+[P4]: https://arxiv.org/abs/2402.01749
 [P3]: https://arxiv.org/abs/2312.16044
 [P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
 [P1]: https://dl.acm.org/doi/abs/10.1145/3347146.3359090

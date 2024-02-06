@@ -89,7 +89,7 @@ redirect_from:
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>.
 
 
-last update: February 2, 2024
+last update: February 6, 2024
 
 
 [A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
