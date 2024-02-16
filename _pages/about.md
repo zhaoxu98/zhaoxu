@@ -76,6 +76,10 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
+# 🍀 Services
+
+- Reviewer: [LLMAgents@ICLR2024][S1]
+
 # 🎖 Honors and Awards
 
 - Scholarship for Outstanding Freshman (Top 1%, 30 out of 3000)
@@ -89,7 +93,7 @@ redirect_from:
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>.
 
 
-last update: February 6, 2024
+last update: February 16, 2024
 
 
 [A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
@@ -113,6 +117,8 @@ last update: February 6, 2024
 [E3]: https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en
 [E2]: http://fi.ee.tsinghua.edu.cn/~liyong/
 [E1]: https://raymondhliu.github.io/
+
+[S1]: https://llmagents.github.io/
 
 [I4]: http://fi.ee.tsinghua.edu.cn/
 [I3]: https://hkust-gz.edu.cn/
