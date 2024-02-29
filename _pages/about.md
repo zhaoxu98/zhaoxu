@@ -67,7 +67,7 @@ redirect_from:
 - *2025 (Anticipated)*, **The Hong Kong University of Science and Technology**<br>
    Master of Philosophy, Department of Artificial Intelligence<br>
    Supervisor: [Prof. Hao Liu][E1]
-   Co-supervisor: [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4]
+   <!-- Co-supervisor: [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4] -->
 - *2022*, **Tsinghua University**<br>
    Bachelor, Department of Electronic Engineering<br>
    Supervisor: [Prof. Yong Li][E2]
@@ -108,7 +108,7 @@ The importance of the above factors is ranked as follows: 1 = 2 > 3 >> others.
 
 Recently, I wrote a blog in Chinese, detailing my expectations for Ph.D. applications, future research, and life. You're welcome to read it: [24#00 Before Applying][F1]
 
-Thank you for taking the time to learn more about me. If you have any feedback or suggestions, please don't hesitate to reach out to me via email at zhaohsu98@gmail.com, phone at +86-13260261866, or WeChat at Bill2998.
+Thank you for taking the time to learn more about me. If you have any feedback or suggestions, please don't hesitate to reach out to me via email (zhaohsu98@gmail.com), phone (+86-13260261866), or WeChat (Bill2998).
 
 ## Chinese Version
 
@@ -127,13 +127,13 @@ Thank you for taking the time to learn more about me. If you have any feedback o
 
    1. 我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣（*例如模拟电路*）的事情，同时我对新知识和新领域的挑战非常感兴趣且具备足够的行动力（*例如，尽管我不喜欢模拟电路，但我对芯片设计很感兴趣，所以在本科期间我熟练 Verilog 语言后，自己选修了微电子的研究生课程，了解并实践了芯片设计的完整流程，完成了一个简单卷积神经网络加速芯片的版图设计*）。
    2. 我患有较为严重的腰椎间盘突出疾病，并曾因病影响了两年的学习时间。尽管腰椎疾病是不可逆的，通过坚持康复训练和定期游泳等方式，目前疾病已经不会影响到我正常的生活和工作。
-   3. 生病期间，我在病痛中花了很长时间思考对人生的规划，确定了真正的兴趣，对未来的期待是我战胜疾病的一个重要原因。这也使我决定将有限的时间投入到感兴趣的领域，也是我决定读 PhD 的原因。我是一个终身学习者，也是“日拱一卒”想法的践行者。尽管由于之前生病耽误了很多时间，但我从康复以来一直保持对时间的高效利用和对自身的有效管理，我有信心在接下来几年内赶上并超过先行者。
+   3. 生病期间，我在病痛中花了很长时间思考对人生的规划，确定了真正的兴趣，对未来的期待是我战胜疾病的一个重要原因。这也使我决定将有限的时间投入到感兴趣的领域，也是我决定读 PhD 的原因。我是一个终身学习者，也是“日拱一卒”想法的践行者。尽管由于之前生病耽误了很多时间，但我从康复以来一直（努力:）保持对时间的高效利用和对自身的有效管理，我有信心在接下来几年内赶上并超过先行者。
 
    </details>
 
 </details>
 
-last update: February 16, 2024
+last update: March 1, 2024
 
 
 [A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
