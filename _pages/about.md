@@ -105,7 +105,7 @@ I plan to apply for Ph.D. programs for Fall 2025. Here are a few expectations I 
 1. <span style="color: #8C6804;">Interest</span>: My motivation is fueled by my passions, and working on projects that don't spark my interest is a challenge I prefer to avoid. It's crucial for me to find a research group where our interests align, as this is a fundamental requirement for me.
 2. <span style="color: #8C6804;">Qualities</span>: I strive to uphold values of integrity, diligence, and responsibility, and I seek to work alongside individuals who share these commendable traits.
 3. <span style="color: #8C6804;">Atmosphere</span>: A positive team environment significantly boosts my motivation and productivity. This is a key reason why I chose to join USAIL.
-The importance of the above factors is ranked as follows: 1 = 2 > 3 >> others.
+The importance of the above factors is ranked as follows: 1 = 2 > 3 > > others.
 
 Recently, I wrote a blog in Chinese, detailing my expectations for Ph.D. applications, future research, and life. You're welcome to read it: [24#00 Before Applying][F1]
 
@@ -118,7 +118,7 @@ Thank you for taking the time to learn more about me. If you have any feedback o
 1. 兴趣：我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣的事情，相近的研究兴趣是必要条件。
 2. 品质：我以诚信、勤奋、责任心等准则要求自己，所以我也希望能与具有类似优秀品质的人合作。
 3. 氛围：在拥有一个良好氛围的团队中，我会有更高的自我驱动和执行力 (这是我加入 USAIL 的一个重要原因)。
-以上几点的重要程度：1 = 2 > 3 >> 其他
+以上几点的重要程度：1 = 2 > 3 > > 其他
 
 最近我写了一篇中文博客，更详细地介绍了我对 PhD 申请、未来的研究与生活的期待，欢迎阅读：[24#00 写在申请前][F1]
 
