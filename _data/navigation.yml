@@ -9,11 +9,15 @@ main:
   - title: "Publications"
     url: "/zhaoxu/#-publications"
 
+  - title: "Services"
+    url: "/zhaoxu/#-services"
+
   - title: "Honors and Awards"
     url: "/zhaoxu/#-honors-and-awards"
 
   - title: "Work Experience"
     url: "/zhaoxu/#-work-experience"
+
 
 # - title: "News"
 #   url: "/zhaoxu/#-news"

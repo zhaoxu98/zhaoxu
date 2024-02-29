@@ -21,7 +21,7 @@ redirect_from:
 - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology][A6], supervised by [Prof. Hao LIU][N2]. 
 [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
 - Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], [a university that ranked #12 globally and #1 in Electrical and Electronic Engineering][A9].
-- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of <span style="color: #8C6804;">reliable, trustworthy Large Language Models (LLMs) and their applications in real-world scenarios</span> (e.g., smart cities, graph reasoning).
+- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of <span style="color: #8C6804;">reliable, trustworthy Large Models (LLMs, LVMs) and their applications in real-world scenarios</span> (e.g., smart cities, graph reasoning).
 - I warmly welcome everyone to discuss academic matters with me. Feel free to contact me via WeChat at <span style="color: #8C6804;">Bill2998</span> or email at <span style="color: #8C6804;">zhaohsu98@gmail.com</span>. Looking forward to your valuable insights and suggestions!
 <!-- <span style="color: #8C6804;">这段文本将显示为天蓝色。</span>
  -->
@@ -97,6 +97,20 @@ redirect_from:
 
 <details markdown='1'><summary>Details</summary>
 
+## English Version
+
+I plan to apply for Ph.D. programs for Fall 2025. Here are a few expectations I have for my future advisor and collaborators:
+
+1. <span style="color: #8C6804;">Interest</span>: My motivation is fueled by my passions, and working on projects that don't spark my interest is a challenge I prefer to avoid. It's crucial for me to find a research group where our interests align, as this is a fundamental requirement for me.
+2. <span style="color: #8C6804;">Qualities</span>: I strive to uphold values of integrity, diligence, and responsibility, and I seek to work alongside individuals who share these commendable traits.
+3. <span style="color: #8C6804;">Atmosphere</span>: A positive team environment significantly boosts my motivation and productivity. This is a key reason why I chose to join USAIL.
+The importance of the above factors is ranked as follows: 1 = 2 > 3 >> others.
+
+Recently, I wrote a blog in Chinese, detailing my expectations for Ph.D. applications, future research, and life. You're welcome to read it: [24#00 Before Applying][F1]
+
+Thank you for taking the time to learn more about me. If you have any feedback or suggestions, please don't hesitate to reach out to me via email at zhaohsu98@gmail.com, phone at +86-13260261866, or WeChat at Bill2998.
+
+## Chinese Version
 
 我计划申请 25Fall 入学的 Ph.D. 项目，以下几点是我对未来的导师与合作者的期待：
 
@@ -108,7 +122,6 @@ redirect_from:
 最近我写了一篇中文博客，更详细地介绍了我对 PhD 申请、未来的研究与生活的期待，欢迎阅读：[24#00 写在申请前][F1]
 
 最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
-
 
    <details markdown='1'><summary>Know More About Me in 1 Minute</summary>
 
