@@ -93,6 +93,33 @@ redirect_from:
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>.
 
 
+# 💬 For Prospective Advisor
+
+<details markdown='1'><summary>Details</summary>
+
+
+我计划申请 25Fall 入学的 Ph.D. 项目，以下几点是我对未来的导师与合作者的期待：
+
+1. 兴趣：我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣的事情，相近的研究兴趣是必要条件。
+2. 品质：我以诚信、勤奋、责任心等准则要求自己，所以我也希望能与具有类似优秀品质的人合作。
+3. 氛围：在拥有一个良好氛围的团队中，我会有更高的自我驱动和执行力 (这是我加入 USAIL 的一个重要原因)。
+以上几点的重要程度：1 = 2 > 3 >> 其他
+
+最近我写了一篇中文博客，更详细地介绍了我对 PhD 申请、未来的研究与生活的期待，欢迎阅读：[24#00 写在申请前][F1]
+
+最后，感谢您愿意花时间来了解我，如果您对我有任何意见和建议，欢迎通过邮件 (zhaohsu98@gmail.com)、电话 (+86-13260261866) 或微信 (Bill2998) 联系我。
+
+
+   <details markdown='1'><summary>Know More About Me in 1 Minute</summary>
+
+   1. 我一直是一个兴趣导向的人，我无法忍受做完全不感兴趣（*例如模拟电路*）的事情，同时我对新知识和新领域的挑战非常感兴趣且具备足够的行动力（*例如，尽管我不喜欢模拟电路，但我对芯片设计很感兴趣，所以在本科期间我熟练 Verilog 语言后，自己选修了微电子的研究生课程，了解并实践了芯片设计的完整流程，完成了一个简单卷积神经网络加速芯片的版图设计*）。
+   2. 我患有较为严重的腰椎间盘突出疾病，并曾因病影响了两年的学习时间。尽管腰椎疾病是不可逆的，通过坚持康复训练和定期游泳等方式，目前疾病已经不会影响到我正常的生活和工作。
+   3. 生病期间，我在病痛中花了很长时间思考对人生的规划，确定了真正的兴趣，对未来的期待是我战胜疾病的一个重要原因。这也使我决定将有限的时间投入到感兴趣的领域，也是我决定读 PhD 的原因。我是一个终身学习者，也是“日拱一卒”想法的践行者。尽管由于之前生病耽误了很多时间，但我从康复以来一直保持对时间的高效利用和对自身的有效管理，我有信心在接下来几年内赶上并超过先行者。
+
+   </details>
+
+</details>
+
 last update: February 16, 2024
 
 
@@ -127,3 +154,4 @@ last update: February 16, 2024
 
 [T1]: https://drive.google.com/file/d/17JwDHCyMyothD5zJmFA3HsbK_OHAEj0h/view?usp=sharing
 
+[F1]: https://xzbill.top/archives/c1a6767d.html
