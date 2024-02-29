@@ -43,6 +43,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.02*: We designed LightGPT to improve the LLMLight framework, using imitation fine-tuning from GPT-4 and policy refinement with a critic model for enhanced, cost-effective control policies in diverse traffic scenarios. Find more details [**HERE**][N7].
 - *2024.01*: We have conducted a comprehensive review of Urban Foundation Models, offering insightful perspectives and findings. Access our detailed paper and repository [**HERE**][N6].
 - *2023.12*: Our latest work applies Large Language Models (LLMs) to Traffic Signal Control (TSC) tasks. Discover our paper, code, and demo [**HERE**][N5]. We are currently preparing further studies for submission to KDD 2024.
 - *2023.08*: I accepted the MPhil offer from HKUST, and it was my pleasure to join [USAIL][N4] group.
@@ -146,6 +147,7 @@ last update: March 1, 2024
 [A2]: https://www.ee.tsinghua.edu.cn/en/
 [A1]: https://www.tsinghua.edu.cn/en/index.htm
 
+[N7]: https://gungnir2099.github.io/LLMLight-Page/
 [N6]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
 [N5]: https://github.com/usail-hkust/LLMTSCS
 [N4]: https://github.com/usail-hkust

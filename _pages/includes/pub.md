@@ -4,15 +4,15 @@
 <!-- _(* indicates equal contribution)_ -->
 
 - `Arxiv 2024` ["Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models"][P4]<br>
-  <span style="color: #FFE08A;">[[Github]][P4-1]</span><br>
+  <span style="color: #FFE08A;">[[Github]][P4-1]</span><br>, [Press (in Chinese)][P4-2]
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
   arXiv:2402.01749 [cs.CY]
 
 - `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
-  <span style="color: #FFE08A;">[[Github]][P3-1]</span><br>
+  <span style="color: #FFE08A;">[[Github]][P3-1]</span><br>, [Project Page][P3-2], [Demo][P3-3]
   Siqi Lai, **Zhao Xu**, Weijia Zhang, Hao Liu, Hui Xiong<br>
   arXiv:2312.16044 [cs.AI]
-  <span style="color: #8C6804;">Further study in preparation for KDD 2024.</span>
+  <span style="color: #8C6804;">Under Review of KDD 2024 ADS Track.</span>
 
 - `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Paper)][P2]<br>
   Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin<br>
@@ -22,7 +22,10 @@
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
+[P4-2]: https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ
 [P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
+[P3-3]: https://gungnir2099.github.io/LLMTSCS_Demo/
+[P3-2]: https://gungnir2099.github.io/LLMLight-Page/
 [P3-1]: https://github.com/usail-hkust/LLMTSCS
 [P4]: https://arxiv.org/abs/2402.01749
 [P3]: https://arxiv.org/abs/2312.16044
