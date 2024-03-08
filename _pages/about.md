@@ -68,7 +68,7 @@ redirect_from:
 - *2025 (Anticipated)*, **The Hong Kong University of Science and Technology**<br>
    Master of Philosophy, Department of Artificial Intelligence<br>
    Supervisor: [Prof. Hao Liu][E1]
-   <!-- Co-supervisor: [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4] -->
+   Co-supervisor: [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4]
 - *2022*, **Tsinghua University**<br>
    Bachelor, Department of Electronic Engineering<br>
    Supervisor: [Prof. Yong Li][E2]
@@ -94,7 +94,7 @@ redirect_from:
 - *2019.07 - 2019.10*, Research Assistant, [School of Electronic Engineering and Computer Science][I2] <img src='./images/penn-state-lions-3.svg' style='width: 4em;'>.
 
 
-# 💬 For Prospective Advisor
+# 💬 To Prospective Advisor
 
 <details markdown='1'><summary>Details</summary>
 
@@ -134,7 +134,7 @@ Thank you for taking the time to learn more about me. If you have any feedback o
 
 </details>
 
-last update: March 1, 2024
+last update: March 8, 2024
 
 
 [A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
