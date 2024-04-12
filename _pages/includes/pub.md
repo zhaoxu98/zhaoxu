@@ -1,5 +1,11 @@
 
-# 📝 Publications
+# 📝 Projects and Publications
+
+- `Ongoing` ["Defend Against Adaptive Jailbreak Attack for LLMs"][P4]<br>
+  <span style="color: #8C6804;">Targeting NeurIPS 2024</span>
+
+- `Ongoing` ["Corrective Large Language Model Unlearning"][P4]<br>
+  <span style="color: #8C6804;">Targeting NeurIPS 2024</span>
 
 <!-- _(* indicates equal contribution)_ -->
 
@@ -21,6 +27,7 @@
 - `SIGSPATIAL 2019` ["DeepMM: Deep learning based map matching with data augmentation"][P1]<br>
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
+
 
 [P4-2]: https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ
 [P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
