@@ -9,10 +9,10 @@
 
 <!-- _(* indicates equal contribution)_ -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/P4-KDD-taxonomy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/P4-KDD-taxonomy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Arxiv 2024` ["Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models"][P4]<br>
+- ["Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models"][P4]<br>
   [[Github]][P4-1], [[Press (in Chinese)]][P4-2]<br>
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
   arXiv:2402.01749 [cs.CY]
@@ -20,10 +20,10 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/P3-KDD-Workflow_simple_reason.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/P3-KDD-Workflow_simple_reason.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Arxiv 2023` ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
+- ["Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity"][P3]<br>
   [[Github]][P3-1], [[Project Page]][P3-2], [[Demo]][P3-3]<br>
   Siqi Lai, **Zhao Xu**, Weijia Zhang, Hao Liu, Hui Xiong<br>
   arXiv:2312.16044 [cs.AI]
