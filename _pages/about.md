@@ -135,7 +135,7 @@ Thank you for taking the time to learn more about me. If you have any feedback o
 
 </details>
 
-last update: March 8, 2024
+last update: June 8, 2024
 
 
 [A9]: https://international.join-tsinghua.edu.cn/Discover_Tsinghua1/Advantages.htm
