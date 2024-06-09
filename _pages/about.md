@@ -43,6 +43,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.05*: Our paper was accepted by KDD 2024! It is a great honor to present our work at the conference. See you in Barcelona!
 - *2024.02*: We designed LightGPT to improve the LLMLight framework, using imitation fine-tuning from GPT-4 and policy refinement with a critic model for enhanced, cost-effective control policies in diverse traffic scenarios. Find more details [**HERE**][N7].
 - *2024.01*: We have conducted a comprehensive review of Urban Foundation Models, offering insightful perspectives and findings. Access our detailed paper and repository [**HERE**][N6].
 - *2023.12*: Our latest work applies Large Language Models (LLMs) to Traffic Signal Control (TSC) tasks. Discover our paper, code, and demo [**HERE**][N5]. We are currently preparing further studies for submission to KDD 2024.
@@ -77,9 +78,9 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-# 🍀 Services
+<!-- # 🍀 Services
 
-- Reviewer: [LLMAgents@ICLR2024][S1]
+- Reviewer: [LLMAgents@ICLR2024][S1] -->
 
 # 🎖 Honors and Awards
 

@@ -1,15 +1,15 @@
 
 # 📝 Projects and Publications
 
-- `Ongoing` ["Defend Against Adaptive Jailbreak Attack for LLMs"][P4]<br>
+<!-- - `Ongoing` ["Defend Against Adaptive Jailbreak Attack for LLMs"][P4]<br>
   <span style="color: #8C6804;">Targeting NeurIPS 2024</span>
 
 - `Ongoing` ["Corrective Large Language Model Unlearning"][P4]<br>
-  <span style="color: #8C6804;">Targeting NeurIPS 2024</span>
+  <span style="color: #8C6804;">Targeting NeurIPS 2024</span> -->
 
 <!-- _(* indicates equal contribution)_ -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/P4-KDD-taxonomy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/P4-KDD-taxonomy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ["Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models"][P4]<br>
@@ -19,6 +19,7 @@
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/P3-KDD-Workflow_simple_reason.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -32,9 +33,11 @@
 </div>
 </div>
 
+
 - `TMC 2020` ["DeepMM: Deep learning based map matching with data augmentation" (Extension of SIGSPATIAL 2019 Paper)][P2]<br>
   Jie Feng, Yong Li, Kai Zhao, **Zhao Xu**, Tong Xia, Lin Chen, Depeng Jin<br>
   IEEE Transactions on Mobile Computing _(CCF A)_
+
 
 - `SIGSPATIAL 2019` ["DeepMM: Deep learning based map matching with data augmentation"][P1]<br>
   Kai Zhao, Jie Feng, **Zhao Xu**, Tong Xia, Lin Chen, Funing Sun, Diansheng Guo, Depeng Jin, Yong Li<br>
