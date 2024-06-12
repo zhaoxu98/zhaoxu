@@ -9,6 +9,31 @@
 
 <!-- _(* indicates equal contribution)_ -->
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/P6-JBTrickBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- ["Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs"][P6]<br>
+  \[Github\] (Coming soon)<br>
+  **Zhao Xu**, Fan Liu, Hao Liu<br>
+  arXiv:2406 [cs.CL]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/P5-at_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- ["Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs"][P5]<br>
+  \[Github\] (Coming soon)<br>
+  Fan Liu, **Zhao Xu**, Hao Liu<br>
+  arXiv:2406.06622 [cs.CL]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/P4-KDD-taxonomy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,11 +69,14 @@
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
 
+
 [P4-2]: https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ
 [P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
 [P3-3]: https://gungnir2099.github.io/LLMTSCS_Demo/
 [P3-2]: https://gungnir2099.github.io/LLMLight-Page/
 [P3-1]: https://github.com/usail-hkust/LLMTSCS
+[P6]: https://arxiv.org/abs/2406.06622
+[P5]: https://arxiv.org/abs/2406.06622
 [P4]: https://arxiv.org/abs/2402.01749
 [P3]: https://arxiv.org/abs/2312.16044
 [P2]: https://ieeexplore.ieee.org/abstract/document/9288879/
