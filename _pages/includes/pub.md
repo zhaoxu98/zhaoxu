@@ -40,7 +40,7 @@
 - ["Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models"][P4]<br>
   [[Github]][P4-1], [[Press (in Chinese)]][P4-2]<br>
   Weijia Zhang, Jindong Han, **Zhao Xu**, Hang Ni, Hao Liu, Hui Xiong<br>
-  arXiv:2402.01749 [cs.CY]
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining _(CCF A)_
 
 </div>
 </div>
