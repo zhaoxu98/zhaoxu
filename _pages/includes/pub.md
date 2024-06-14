@@ -69,13 +69,13 @@
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
 
-
+[P6-2]: 
 [P4-2]: https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ
 [P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
 [P3-3]: https://gungnir2099.github.io/LLMTSCS_Demo/
 [P3-2]: https://gungnir2099.github.io/LLMLight-Page/
 [P3-1]: https://github.com/usail-hkust/LLMTSCS
-[P6]: https://arxiv.org/abs/2406.06622
+[P6]: https://arxiv.org/abs/2406.09324
 [P5]: https://arxiv.org/abs/2406.06622
 [P4]: https://arxiv.org/abs/2402.01749
 [P3]: https://arxiv.org/abs/2312.16044
