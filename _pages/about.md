@@ -69,7 +69,8 @@ redirect_from:
 - *2025 (Anticipated)*, **The Hong Kong University of Science and Technology**<br>
    Master of Philosophy, Department of Artificial Intelligence<br>
    Supervisor: [Prof. Hao Liu][E1]
-   Co-supervisor: [Prof. Hui Xiong][E3], [Prof. Xiaowen Chu][E4]
+   Co-supervisor: [Prof. Hui Xiong][E3]
+   <!-- , [Prof. Xiaowen Chu][E4] -->
 - *2022*, **Tsinghua University**<br>
    Bachelor, Department of Electronic Engineering<br>
    Supervisor: [Prof. Yong Li][E2]
