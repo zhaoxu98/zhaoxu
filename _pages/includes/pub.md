@@ -14,7 +14,7 @@
 <div class='paper-box-text' markdown="1">
 
 - ["Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs"][P6]<br>
-  \[Github\] (Coming soon)<br>
+  [[Github]][P6-2]<br>
   **Zhao Xu**, Fan Liu, Hao Liu<br>
   arXiv:2406 [cs.CL]
 
@@ -69,7 +69,7 @@
   Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems _(CORE Rank A, Acceptance Rate: 21%)_
 
 
-[P6-2]: 
+[P6-2]: https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking
 [P4-2]: https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ
 [P4-1]: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
 [P3-3]: https://gungnir2099.github.io/LLMTSCS_Demo/
