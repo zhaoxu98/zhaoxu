@@ -21,7 +21,7 @@ redirect_from:
 - I am a first-year MPhil student in the Department of Artificial Intelligence at [The Hong Kong University of Science and Technology][A6], supervised by [Prof. Hao LIU][N2]. 
 [HKUST ranked #29 globally in Computer Science and #1 in Hong Kong][A8].
 - Prior to my MPhil, I received a Bachelor's degree from the Department of [Electronic Engineering][A2] at [Tsinghua University][A1], [a university that ranked #12 globally and #1 in Electrical and Electronic Engineering][A9].
-- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, **graph learning**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of <span style="color: #8C6804;">reliable, trustworthy Large Models (LLMs, LVMs) and their applications in real-world scenarios</span> (e.g., smart cities, graph reasoning).
+- <span style="color: #8C6804;">**My research interests**</span> are focused on **foundation models**, and **spatio-temporal data mining**. Specifically, my current work revolves around the development of <span style="color: #8C6804;">reliable, trustworthy Large Models (LLMs, LVMs) and their applications in real-world scenarios</span> (e.g., smart cities, graph reasoning).
 - I warmly welcome everyone to discuss academic matters with me. Feel free to contact me via WeChat at <span style="color: #8C6804;">Bill2998</span> or email at <span style="color: #8C6804;">zhaohsu98@gmail.com</span>. Looking forward to your valuable insights and suggestions!
 <!-- <span style="color: #8C6804;">这段文本将显示为天蓝色。</span>
  -->
@@ -65,12 +65,12 @@ redirect_from:
    Department of Electronic Engineering, Tsinghua University
 - *2019.07 - 2019.10*, Undergraduate Visiting Researcher.<br>
    School of Electronic Engineering and Computer Science, Pennsylvania State University -->
+   <!-- , [Prof. Xiaowen Chu][E4] -->
 
 - *2025 (Anticipated)*, **The Hong Kong University of Science and Technology**<br>
    Master of Philosophy, Department of Artificial Intelligence<br>
    Supervisor: [Prof. Hao Liu][E1]
    Co-supervisor: [Prof. Hui Xiong][E3]
-   <!-- , [Prof. Xiaowen Chu][E4] -->
 - *2022*, **Tsinghua University**<br>
    Bachelor, Department of Electronic Engineering<br>
    Supervisor: [Prof. Yong Li][E2]
